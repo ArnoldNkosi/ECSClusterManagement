@@ -1,0 +1,7 @@
+image: amazon/aws-lambda-java:latest
+
+build:
+  stage: build
+  script: 
+    - mvn compile
+  

@@ -1,0 +1,7 @@
+- Cluster Name: clusterName
+  Service Name: serviceName
+  Scale: 1
+
+  - Cluster Name: clusterName
+  Service Name: serviceName
+  Scale: 1
